@@ -1,6 +1,6 @@
-## Getting Started
+## Opening Remarks
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repository has been opened to contain all relevant code to perform analysis on S-parameter data regarding the "Continuous Wearable Bladder State Detection Technology Through Microwave Sensing For Urinary Incontinence" project
 
 ## Folder Structure
 
